@@ -1,0 +1,6 @@
+[core]
+    remote = myremot
+['remote "myremote"']
+    url = s3://bhargav-dvc-data
+['remote "myremot"']
+    url = ../s3
